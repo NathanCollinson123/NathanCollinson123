@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Nathan Collinson 
 
-I am currently a 3rd year student at Victoria University of Wellington studying Software Engineering who likes making cool things with code.
+I am currently a 4th year student at Victoria University of Wellington studying Software Engineering who likes making cool things with code.
 
 ## 🌱 I’m currently learning 
 
